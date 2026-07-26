@@ -17,7 +17,7 @@ To improve conversion performance, the business needs to identify where users le
 
 - Measure website funnel performance from Home to Confirmation
 - Identify the stage with the highest drop-off
-- Analyze customer navigation behavior and exit patterns
+- Analyze behavior customer
 - Provide data-driven recommendation to improve website conversion
 
 ## Data Understanding
@@ -60,6 +60,7 @@ The analysis included:
   
 ## Analysis 
 
+Funnel performance
 
 <img width="822" height="390" alt="image" src="https://github.com/user-attachments/assets/0de8b529-e977-4b25-a54f-85a932fbf8d1" />
 
@@ -68,7 +69,7 @@ Key Insight:
 - Only **20.20%** of website sessions successfully completed the purchasing journey, indicating that approximately **four out of five visitors** did not reach the confirmation stage.
 - The website experienced a substantial decline in user progression from **Product Page to Cart**, where nearly **60% of visitors exited the funnel**. 
 
-
+Identify bottleneck
 
   <img width="857" height="439" alt="image" src="https://github.com/user-attachments/assets/d9831020-527b-40dc-b061-b37f7bb44fc1" />
 
@@ -77,7 +78,7 @@ Key Insight:
 -  Nearly ** 6 out of every 10 users** who viewed a product ** did not continue to add it to their cart**, making this the weakest stage in the purchasing journey
 -  Because almost **60% of users leave before adding a product to the cart**, improving the Product Page has the greatest potential to increase overall conversion
 
-
+Analyze behavior
 
 <img width="844" height="459" alt="image" src="https://github.com/user-attachments/assets/f1c154c0-e4d1-4607-ba39-630a9f15581e" />
 
@@ -101,4 +102,7 @@ The analysis successfully identified the key factors affecting website conversio
 
 ## Recommendation
 
-- 
+- Improve Product Page content
+- Improve Add-to-Cart button visibility
+- Optimize page experience and conduct usability testing
+- Improve product discovery and personalized recommendations
