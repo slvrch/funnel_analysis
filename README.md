@@ -2,9 +2,7 @@
 
 ## Background Business
 
-An e-commerce company wants to understand how users progress through its website from the Home page to Purchase Confirmation. Although the website receives a steady number of visitors, not all users complete the purchasing process.
-
-To improve conversion performance, the business needs to identify where users leave the funnel, and understand customer navigation behavior before making optimization decisions.
+An e-commerce company wants to understand how users progress through its website from the Home page to Purchase Confirmation. Although the website receives consisten traffic, not every visitor completes the purchasing journey. The business needs to identify bottlenecks, analyze customer behavior across the funnel, and uncover opportunities to improve conversion performance.
 
 ## Business Question
 
@@ -15,10 +13,10 @@ To improve conversion performance, the business needs to identify where users le
 
 ## Business Objectives
 
-- Measure website funnel performance from Home to Confirmation
+- Measure website funnel performance
 - Identify the stage with the highest drop-off
-- Analyze behavior customer
-- Provide data-driven recommendation to improve website conversion
+- Analyze customer behavior throughout the purchasing journey
+- Provide data-driven recommendations to improve website conversion
 
 ## Data Understanding
 
