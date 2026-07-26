@@ -69,6 +69,7 @@ Key Insight:
 - The website experienced a substantial decline in user progression from **Product Page to Cart**, where nearly **60% of visitors exited the funnel**. 
 
 
+
   <img width="857" height="439" alt="image" src="https://github.com/user-attachments/assets/d9831020-527b-40dc-b061-b37f7bb44fc1" />
 
 Key Insight:
@@ -77,23 +78,27 @@ Key Insight:
 -  Because almost **60% of users leave before adding a product to the cart**, improving the Product Page has the greatest potential to increase overall conversion
 
 
+
 <img width="844" height="459" alt="image" src="https://github.com/user-attachments/assets/f1c154c0-e4d1-4607-ba39-630a9f15581e" />
 
 Key Insight:
 
-- 
+-  Product Page recorded **the highest exit rate (47.76%)**, indicating that nearly half of all user sessions ended immediately after users viewed product information. This suggests that users were not sufficiently encouraged to continue to the Add-to-Card stage
+
+
 
 <img width="846" height="449" alt="image" src="https://github.com/user-attachments/assets/1ee3d0a1-2170-4c67-9403-e9ac549b4a94" />
 
 Key Insight:
 
--
+- Purchased users spend approximately **2.6 times longer** on the website than non-purchased users. This indicates that higher session engagement is associated with a greater likelihood of completing the purchase journey.
 
 
 ## Conclusion
 
+The analysis successfully identified the key factors affecting website conversion. Although the website attracted a substantial number of visitors, only 20.20% completed the purchasing journey. The Product Page emerged as the primary bottleneck, evidenced by both the highest drop-off rate (59.89%) and exit rate (47.76%). Furthermore, purchasing users spent approximately 2.6 times longer on the website than non-purchasing users, suggesting that stronger customer engagement is associated with successful conversions. Overall, the findings indicate that optimizing the Product Page and encouraging deeper user engagement are likely to have the greatest impact on improving conversion performance.
 
 
 ## Recommendation
 
-
+- 
