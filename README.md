@@ -61,10 +61,39 @@ The analysis included:
 ## Analysis 
 
 
+<img width="822" height="390" alt="image" src="https://github.com/user-attachments/assets/0de8b529-e977-4b25-a54f-85a932fbf8d1" />
+
+Key Insight:
+
+- Only **20.20%** of website sessions successfully completed the purchasing journey, indicating that approximately **four out of five visitors** did not reach the confirmation stage.
+- The website experienced a substantial decline in user progression from **Product Page to Cart**, where nearly **60% of visitors exited the funnel**. 
+
+
+  <img width="857" height="439" alt="image" src="https://github.com/user-attachments/assets/d9831020-527b-40dc-b061-b37f7bb44fc1" />
+
+Key Insight:
+
+-  Nearly ** 6 out of every 10 users** who viewed a product ** did not continue to add it to their cart**, making this the weakest stage in the purchasing journey
+-  Because almost **60% of users leave before adding a product to the cart**, improving the Product Page has the greatest potential to increase overall conversion
+
+
+<img width="844" height="459" alt="image" src="https://github.com/user-attachments/assets/f1c154c0-e4d1-4607-ba39-630a9f15581e" />
+
+Key Insight:
+
+- 
+
+<img width="846" height="449" alt="image" src="https://github.com/user-attachments/assets/1ee3d0a1-2170-4c67-9403-e9ac549b4a94" />
+
+Key Insight:
+
+-
+
 
 ## Conclusion
 
 
 
 ## Recommendation
+
 
